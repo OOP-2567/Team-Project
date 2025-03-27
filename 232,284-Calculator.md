@@ -1,6 +1,9 @@
 ## link youtube 
 https://youtu.be/Efc5j5Ptp9Q?si=TbGt3d-DY8Aa3kkr
 
+## Repo ของงานที่ทำ
+https://github.com/Natthanitcha687/CalculatorWithNetConsole.git
+
 จัดทำโดย
 
 1.นางสาว ณัฏฐณิชชา กิติชยาโชติ รหัสนักศึกษา 66030232
