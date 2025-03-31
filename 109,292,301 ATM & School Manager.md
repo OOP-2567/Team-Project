@@ -18,3 +18,9 @@ https://github.com/AdilBinsaad/ATM_Terminal.git
 2. School-Manager Project
 https://github.com/SunisaManureem/School-Manager
 
+# Flowchart
+1. ATM
+![ATM drawio](https://github.com/user-attachments/assets/e9ee325d-e0c4-40c1-afe9-3fb9694f41c3)
+
+2. School-Manager Project
+![image](https://github.com/user-attachments/assets/00a1cf47-c4fa-46da-ad53-816f0d9246ce)
