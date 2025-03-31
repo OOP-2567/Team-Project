@@ -1,4 +1,4 @@
-#จัดทำโดย
+# จัดทำโดย
 
 นายปัญญา ยะก๊บ 66030109
 
@@ -6,15 +6,15 @@
 
 นายอาดิ๊ล บินสอั๊ด 66030301
 
-#Link Video
+# Link Video
 https://youtu.be/ZR48W1a8xJ0?si=QugzBF-VoSPY7aac
 
-#Repository Project
+# Repository Project
 มีทั้งหมด 2 project
 
-1. project ATM
+1. ATM Project
 https://github.com/AdilBinsaad/ATM_Terminal.git
 
-2. project School-Manager
+2. School-Manager Project
 https://github.com/SunisaManureem/School-Manager
 
